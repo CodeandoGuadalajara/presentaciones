@@ -2,7 +2,7 @@
 
 ### Propón una presentación
 
-- [Abre un issue en este repo](new-issue)
+- [Abre un issue en este repo][new-issue]
 - Sigue el template predefinido (Los que no cumplan con este template no
   seran considerados)
 
